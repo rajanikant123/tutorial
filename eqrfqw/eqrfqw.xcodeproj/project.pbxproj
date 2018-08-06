@@ -14,6 +14,7 @@
 		5C1F08B321181C1700D3BF28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C1F08B121181C1700D3BF28 /* LaunchScreen.storyboard */; };
 		5C1F08BE21181C1700D3BF28 /* eqrfqwTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1F08BD21181C1700D3BF28 /* eqrfqwTests.swift */; };
 		5C1F08C921181C1700D3BF28 /* eqrfqwUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C1F08C821181C1700D3BF28 /* eqrfqwUITests.swift */; };
+		5CF7DF03211828A000ABFE6F /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CF7DF02211828A000ABFE6F /* ViewController1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5C1F08C421181C1700D3BF28 /* eqrfqwUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = eqrfqwUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C1F08C821181C1700D3BF28 /* eqrfqwUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eqrfqwUITests.swift; sourceTree = "<group>"; };
 		5C1F08CA21181C1700D3BF28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5CF7DF02211828A000ABFE6F /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				5C1F08A821181C1700D3BF28 /* AppDelegate.swift */,
 				5C1F08AA21181C1700D3BF28 /* ViewController.swift */,
+				5CF7DF02211828A000ABFE6F /* ViewController1.swift */,
 				5C1F08AC21181C1700D3BF28 /* Main.storyboard */,
 				5C1F08AF21181C1700D3BF28 /* Assets.xcassets */,
 				5C1F08B121181C1700D3BF28 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CF7DF03211828A000ABFE6F /* ViewController1.swift in Sources */,
 				5C1F08AB21181C1700D3BF28 /* ViewController.swift in Sources */,
 				5C1F08A921181C1700D3BF28 /* AppDelegate.swift in Sources */,
 			);
